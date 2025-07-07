@@ -1,23 +1,29 @@
 <!DOCTYPE html>
-<htm>
+<html lang="eng">
     <body>
         <h2>Dog Photo app</h2>
+        <header>
+            <title>Dog Phtotos</title>
+        </header>
         <main>
             <h3>Dog photos</h3>
             <p>Click here to view <a href="#" target="_blank">another dog</a></p>
             <a href="#" target="_blank"><img src="https://i.pinimg.com/564x/45/8c/de/458cde099b6baa8badbfd676d695c560.jpg" alt="cute golden retriver"></a>
             <p>things dog <em>love</em></p>
-            <ul>
-                <li>exercise</li>
-                <li>dog foods</li>
-                <li>chewing bones</li>
-                <img src="istockphoto-511375254-612x612.jpg" alt="golden retriever smiling">
-            </ul>
-            <p>things dog <strong>hate</strong></p>
-            <ol>
-                <li>cheese</li>
-                <li>thieves</li>
-                <li>other dogs occupy theire territories</li>
+            <div class="lists">
+                <ul>
+                    <li>exercise</li>
+                    <li>dog foods</li>
+                    <li>chewing bones</li>
+                    <img src="istockphoto-511375254-612x612.jpg" alt="golden retriever smiling">
+                </ul>
+                <p>things dog <strong>hate</strong></p>
+                <ol>
+                    <li>cheese</li>
+                    <li>thieves</li>
+                    <li>other dogs occupy theire territories</li>
+                </ol>
+            </div>
                 <img src="golden-retriever-laying-head-down.webp" alt="golden retriever sad">
 
                 <form action="/submit-dog photo">
@@ -31,7 +37,10 @@
                     <input id="dog url" type="text" placeholder="dog url" required><br>
                     <button type="button">submit</button>
                 </form>
-            </ol>
+            
         </main>
+        <footer>
+            <p><small>Copyright</small></p>
+        </footer>
     </body>
 </html>
