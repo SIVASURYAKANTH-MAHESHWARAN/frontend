@@ -1,7 +1,8 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-    <body>
-        <i>Hello world</i>
-        <em>Hello world<em>
-    </body>
+    <!--HTML Attributes-->
+    <a href="www.google.com">visit google</a>
+    <img src="c:\Users\Dell\golden-retriever-laying-head-down.webp" width="100" height="100" alt="golden retriver sad"></img>
+    <p style="color: red;">this is red</p>
+    <p title="favourite dog">golden retriver</p>
 </html>
