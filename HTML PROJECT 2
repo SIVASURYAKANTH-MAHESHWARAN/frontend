@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>surya</title>
+        <link rel="icon" type="image/x-icon" href="images/logo.jpg">
+    </head>
+    <body style="background-color: aliceblue;">
+        <h1 style="color: black;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align: center;">
+            Hi I'm <abbr title="SIVASURYAKANTH">SURYA</abbr>
+        </h1>
+        <hr>
+        <img src="images/mypic.jpeg"
+        height="300px" alt="this is my image" 
+        style="border: 3px dotted brown;"
+        title="SIVASURYAKANTH"
+        id="img">
+        <br>
+        <br>
+        <p style="font-size: 20px;">I'm a <q><em>software engineer</em></q></p>
+        <p>I love <mark>problem solving</mark></p>
+        <pre>I <small>solve problems</small> on <mark>leetcode</mark>
+I've <Strong>completed</Strong> 400 problems on leetcode
+        </pre>
+        <h3>my leetcode profile</h3>
+        <a href="https://leetcode.com/u/SIVASURYAKANTH/" target="_blank"><img src="images/leetcode.png" height="10px"><small>SIVASURYAKANTH'S LEETCODE</small></a>
+        <br>
+        <a href="mailto:sivasuryakanth1@gmail.com">Email me</a>
+        <h4>My Bucket List</h4>
+        <ol type="a">
+        <li><del>solve 2000 problems in skillrack</del></li>
+        <li><del>solved 250+ problems in leetcode</del></li>
+        <li><ins>planing to reach CM in codeforces</ins></li>
+        <li><ins>planing to reach 6 stars in codechef</ins></li>
+        <ul style="list-style-type:circle;">
+            <li>pratice more problems</li>
+            <li>attending more contests</li>
+            <li>upsloving after each contest</li>
+            <li>analyzing and solving the problems in weak topics</li>
+        </ul>
+        </ol>
+        <br>
+        <br>
+        <table style="border: 1px dashed;">
+            <caption>projects</caption>
+            <thead style="text-align: left;">
+                <tr>
+                    <th colspan="2" style="width:60%;">project name</th>
+                    <th>language</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>oops</td>
+                    <td rowspan="2">java</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>ml</td>
+                    
+                </tr>
+            </tbody>
+        </table>
+        <iframe src="C:\Users\Dell\index.html" style="width: 50%;"></iframe>
+        <fieldset>
+            <legend>sign_up</legend>
+            <form action="C:\Users\Dell\index.html">
+                <label>name</label>
+                <input type="text" placeholder="SIVASURYAKANTH" required>                
+                <br>
+                <label>mother name</label>
+                <input type="text" value="Jeyavani" disabled>
+                <br> 
+                <label>father name</label>
+                <input type="text" value="Maheswaran" disabled>
+                <br>
+                <label>friend</label>
+                <input type="text" value="venkat">
+                <br>
+                <label>password</label>
+                <input type="password" required>
+                <br>
+                <label>DOB</label>
+                <input type="date">
+                <br>               
+                <input type="radio" name="gender">
+                <lable>male</lable>
+                <br>
+                <input type="radio" name="gender">
+                <label>female</label>
+                <br>
+                <input type="radio" name="gender">
+                <label>others</label>
+                <br>
+                <input type="checkbox" name="agree" id="agree">
+                <label>terms and conditions</label>
+                <br>
+                <input type="submit">
+            </form>
+        </fieldset>
+        <a href="#img">begining_of_the_site</a>
+    </body>
+</html>
