@@ -1,0 +1,234 @@
+h5{
+    color: yellow;   
+}
+*{
+    color: green;
+}
+h5,p{
+    color: red;
+}
+#hlo{
+    color: aqua;
+}
+p.cool{
+    color:aquamarine
+}
+h5,p,#hlo,.cool{
+    color:purple;
+    opacity: 50;
+}
+/* body{
+    background-image: url(images/Best-Free-Photos-HD-Nature-Pictures.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-position: bottom;
+
+    background-attachment: fixed;
+     background: url(images/Best-Free-Photos-HD-Nature-Pictures.jpg) no-repeat  bottom scroll; 
+} */
+/* h5{
+    border-style:solid;   
+    border-color:red;
+    border-width: 10px;
+    border-width: medium;
+    border-radius: 2px 0px 2px 0px;
+    border:  medium solid red;
+} */
+ /* h5{
+    border: solid;
+     padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+    padding-right: 20px; 
+    padding: 10px 20px 50px 5px;
+ } */
+  /* h5{
+    border:solid;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin:20px 100px 10px 50px;
+  } */
+
+  /* h5{
+    border: solid;
+    margin: auto;
+    width: 100px;
+  } */
+/* body{
+    margin: 100px;
+}
+h5{
+    margin: inherit;
+    width: 100px;
+    border:solid;
+} */
+/* h5{
+    border: solid;
+    height: 150px;
+    width: 150px;
+    min-height: 500px;
+    max-height: 1000px;
+    min-width: 500px;
+    max-width: 1000px;
+    height: inherit;
+    height:initial;
+    height:100cm;
+    height: 50%;
+} */
+ /* p{
+    color: blue;
+
+    text-align: center;
+    text-align: left;
+    text-align: right;
+    text-align: justify;
+    text-decoration-line: overline;
+    text-decoration-color: red;
+    text-decoration-style: solid;
+    text-decoration: overline solid red;
+    text-decoration-line: underline;
+    text-decoration-thickness: 5px;
+    text-transform: capitalize;
+    text-transform: lowercase;
+    text-shadow:0px 2px 10px red;
+    line-height: 100px;
+    word-spacing: 30px;
+    text-decoration: underline overline dotted peru ;
+ }
+ a{
+    text-decoration: none;
+ } */
+
+
+/* p{
+    font-family: 'Courier New', Courier, monospace;
+    font-style:italic;
+    font-style: normal; 
+    font-style: oblique;
+    font-weight: 700;
+    font-weight: lighter;
+    font-weight: bold;
+    font-weight: bolder;
+    font-weight: normal;
+    font-weight: 12px;
+    font-variant: small-caps;
+    font-variant: normal;
+    font-size: 1em;
+    font-size: larger;
+    font-size: medium;
+    font-size: large;
+    font:italic 12px bold monospace;
+} */
+/* table,td{
+    border: 1px solid;
+    vertical-align: bottom;
+    padding: 10px;
+    border-collapse: collapse;
+}
+thead td{
+    text-align: center;
+}
+tr{
+    height: 100px;
+}
+table{
+    width: 100%;
+}
+td:hover{
+    background-color: red;
+}
+tr:nth-child(odd){
+    background-color: red;
+}
+tr:nth-child(even){
+    background-color: red;
+} */
+/* .para{
+    border:2px red solid;
+    opacity: 0.5;
+    border-radius: 2px;
+}
+.para .content{
+    background-color: red !important;
+}
+#super{
+    background-color: blue;
+} */
+
+/* .para{
+    position: static;
+}
+.para{
+    position: relative;
+    left:20px;
+    border: 2px solid red;
+
+} */
+/* .content{
+    position: absolute;
+    left:20px;
+    bottom :100px;
+    border: 2px solid red;
+
+} */
+ /* .content{
+    position:sticky;
+    top:0px;
+    border: 2px red solid;
+    background-color: blue;
+ } */
+   /* .content{
+    position:fixed;
+    top:0px;
+    border: 2px red solid;
+    background-color: blue;
+ } */
+/* .content{
+    width: 100px;
+    height:100px;
+    border:2px red solid;
+    background-color: blue;
+     overflow: visible;
+    overflow: hidden;
+    overflow: scroll;
+    overflow: auto;
+    overflow-x: visible;
+    overflow-x: auto;
+    overflow-x: hidden;
+    overflow-x: visible;
+    overflow-y: visible;
+    overflow-y: auto;
+    overflow-y: hidden;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    overflow-y: scroll;
+} */
+/* 
+.empty{
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    border: 2px red solid;
+    background-color: black;
+    z-index: -1;
+} */
+
+/* .img{
+    width: 50px;
+    height: 50px;
+    float: left;
+    float: right;
+    float: none;
+} */
+
+.con{
+    /* display: inline;
+    display: block;
+    display: none; */
+   visibility: hidden;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
